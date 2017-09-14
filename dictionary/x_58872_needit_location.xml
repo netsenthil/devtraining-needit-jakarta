@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Location" max_length="40" name="x_58872_needit_location" type="collection">
+        <element label="Country" max_length="40" name="country" reference="core_country" type="reference"/>
+        <element display="true" label="Location" max_length="40" name="location" type="string"/>
+        <element label="Location Code" max_length="40" name="location_code" type="string"/>
+    </element>
+</database>
