@@ -2,8 +2,9 @@
 <database>
     <element label="Safety Incidents" max_length="40" name="x_58872_needit_safety_incidents" type="collection">
         <element label="Country" max_length="32" name="country" reference="core_country" reference_qual="javascript: 'x_58872_needit_region=' + current.region;" type="reference" use_reference_qualifier="advanced"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="ReferenceNo" max_length="40" name="number" read_only="true" type="string" virtual="true"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element display="true" label="Region" mandatory="true" max_length="32" name="region" reference="x_58872_needit_region" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Reference No" max_length="40" name="u_refno" read_only="true" type="string"/>
         <index name="index">
             <element name="country"/>
         </index>

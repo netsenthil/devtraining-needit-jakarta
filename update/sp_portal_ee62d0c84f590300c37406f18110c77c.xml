@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary: #289fdb;
+$body-bg: #fff;
+$state-success-text: #5cb85c;
+$sp-homepage-bg: #fff;
+$sp-navbar-divider-color: #455464;
+$text-color: #717171;
+$sp-logo-margin-y: 2px;
+$navbar-inverse-link-hover-color: #ffffff;
+$panel-bg: #fff;
+$brand-success: #5cb85c;
+$navbar-inverse-bg: #e6e8ea;
+$brand-warning: #f0ad4e;
+$brand-danger: #d9534f;
+$sp-tagline-color: #717171;
+$navbar-inverse-link-color: #000000;
+$brand-info: #5bc0de;
+$link-color: #428bca;
+$sp-logo-margin-x: 7px;
+$btn-default-bg: #fff;
+$text-muted: #979797;
+</css_variables>
+        <default>false</default>
+        <homepage display_value="ehshome">1d92d0c84f590300c37406f18110c747</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="EHS Main Menu">30e8988c4f590300c37406f18110c729</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-14 06:55:05</sys_created_on>
+        <sys_id>ee62d0c84f590300c37406f18110c77c</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>EHS</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_portal_ee62d0c84f590300c37406f18110c77c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-14 08:11:47</sys_updated_on>
+        <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
+        <title>EHS</title>
+        <url_suffix>ehs</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=ee62d0c84f590300c37406f18110c77c"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <image_height>53</image_height>
+        <image_width>120</image_width>
+        <size_bytes>899</size_bytes>
+        <size_compressed>636</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-14 06:56:18</sys_created_on>
+        <sys_id>ca339c884f590300c37406f18110c7cc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-14 06:56:18</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>ee62d0c84f590300c37406f18110c77c</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="ca339c884f590300c37406f18110c7cc">ca339c884f590300c37406f18110c7cc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-14 06:56:18</sys_created_on>
+        <sys_id>0e339c884f590300c37406f18110c7cc</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSFUBsysEMJPfW3AcKMBoF+IS4ArmMFgtGEfHom2n9PWCopZYE+QUzMOgWFSbzsoQU50o7Zj6U4zzwzX6aQ8yjB29+PT7GvuLJ19/fnVqefvz7/AdP7M/TGvKMYsvMZQ1vCHW/lFE7flf4QrkSR8mMiarMM61eJyTGf6j6N2X+woYefu2stD/3M/yy7dK3fGryPzW/1gAYS7M9XRxDIg6/vZ4Z3BQgwpbQH+BVsTNqR6pr1rYbTUvTZr7tnjr1beDMW4f+/+dmtaicKZK0hf/sne+PZ5ZXpOkVSMToSYHAc0bzw/94jA045PSPR7VJPmKsMVOdVuicLrFyrlLCB/aQ2Tz9DB1lqqKBMw795+T7xtR+yEklK6vvWMsHCf7HwpMUfIQ+7xAR3OLx8ZrCRJYZXpwTMxeZGGdPOVRcViCVXFfX2CI+fcOZaoXNOsl7nOY5mbXvn3R6vVCB47E/UoFR/GJbhe5p3Dxg9c57QsGB/7Gmc5+kBc4/fK1M+hq7tYvmtuwzt8xPcflZNX3/xu9i2+5+96GRlZnXI8/zHzTDLa3XP6mPOc4SH7I1SGxX9rlE3emvpprmTFln/LctNHRLe+jXtkO2B38xTcxbm1jbuOTdr18FL7ld9m1v+8qqJP6La/u95Omqd6r668XTZ6/2N7DReBFYo/QwfduylksBdYECWoKfM7a2BexN3GVg8mrFT68p9+7N5tCUl4u+9zH94p+Q8p86Qu1uiVzBP94nttd3zznPU/4n+smeb9wtbUBwzGr+zdBzaa3F+qHAdMHg6ernss4poQkAJDqp4IMDAAA=</data>
+        <length>836</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="ca339c884f590300c37406f18110c7cc">ca339c884f590300c37406f18110c7cc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-14 06:56:18</sys_created_on>
+        <sys_id>8e339c884f590300c37406f18110c7cc</sys_id>
+    </sys_attachment_doc>
+</record_update>

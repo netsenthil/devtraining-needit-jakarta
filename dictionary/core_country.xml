@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="all_tables.text_index_translations=true" create_roles="user_admin" label="Country" max_length="40" name="core_country" text_index="true" type="collection">
-        <element display="true" label="Region" max_length="32" name="x_58872_needit_region" reference="x_58872_needit_region" type="reference"/>
+        <element label="Region" max_length="32" name="x_58872_needit_region" reference="x_58872_needit_region" type="reference"/>
         <index name="index">
             <element name="x_58872_needit_region"/>
         </index>

@@ -2,16 +2,30 @@
 <record_update>
     <sys_ui_section caption="" section_id="1500bb234f410300c37406f18110c779" sys_domain="global" table="x_58872_needit_region" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>region</element>
+            <element>u_ReferenceNo</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-13 09:44:02</sys_created_on>
-            <sys_id>9d007f234f410300c37406f18110c711</sys_id>
+            <sys_created_on>2017-09-14 12:09:35</sys_created_on>
+            <sys_id>cfea91004f1d0300c37406f18110c76a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_region" sys_domain="global" view="Default view">1500bb234f410300c37406f18110c779</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-13 09:44:02</sys_updated_on>
+            <sys_updated_on>2017-09-14 12:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-14 12:09:35</sys_created_on>
+            <sys_id>47ea91004f1d0300c37406f18110c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_region" sys_domain="global" view="Default view">1500bb234f410300c37406f18110c779</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-14 12:09:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

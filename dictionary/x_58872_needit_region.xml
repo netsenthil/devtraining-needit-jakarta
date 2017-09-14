@@ -2,5 +2,6 @@
 <database>
     <element label="Region" max_length="40" name="x_58872_needit_region" type="collection">
         <element display="true" label="Region" max_length="40" name="region" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ReferenceNo" max_length="40" name="u_referenceno" type="string"/>
     </element>
 </database>

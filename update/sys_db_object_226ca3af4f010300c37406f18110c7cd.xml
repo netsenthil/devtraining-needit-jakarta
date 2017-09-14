@@ -14,7 +14,7 @@
         <label>Safety Incidents</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_58872_needit_safety_incidents</name>
-        <number_ref display_value="INC-">d94e2bef4f010300c37406f18110c749</number_ref>
+        <number_ref display_value="">d94e2bef4f010300c37406f18110c749</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>
